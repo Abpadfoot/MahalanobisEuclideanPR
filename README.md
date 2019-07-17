@@ -1,5 +1,5 @@
 # MahalanobisEuclideanPR
-This project discusses concentrates on pattern classification system. In this report, two classifiers have been discussed namely Minimum Distance classifier and Mahalanobis Distance classifier. Four popular real- valued datasets which consist of data from two classes are used to evaluate the performance of both the Mahalanobis distance classifier and the Minimum distance Classifier. The two classifiers are evaluated on the basis of Accuracy, Precision, Recall and F-measure. It is seen that the Mahalanobis distance classifier outperforms the Minimum distance Classifier in these five datasets.
+This project concentrates on pattern classification system. In this report, two classifiers have been discussed namely Minimum Distance classifier and Mahalanobis Distance classifier. Four popular real- valued datasets which consist of data from two classes are used to evaluate the performance of both the Mahalanobis distance classifier and the Minimum distance Classifier. The two classifiers are evaluated on the basis of Accuracy, Precision, Recall and F-measure. It is seen that the Mahalanobis distance classifier outperforms the Minimum distance Classifier in these five datasets.
 Requirements:
 LinuxOS
 GNUPlot
